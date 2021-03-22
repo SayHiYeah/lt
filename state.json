@@ -1,0 +1,28 @@
+{
+	"api":"https://api.le166.com",
+	"agentDefault":"le70.com",
+	"service":"https://chat.meiqia.cn/widget/standalone.html?eid=98ea316f87ac88aec0d5a5aa494dc727",
+	"service1":"https://chat.meiqia.cn/widget/standalone.html?eid=98ea316f87ac88aec0d5a5aa494dc727",
+	"state":false, 
+	"state1":false, 
+	"tit":false,
+	"start":"9:00",
+	"end":"11:00",
+	"startTime":"9",
+	"endTime":"11",
+	"content":"尊敬的会员，为了您更好的游戏体验，系统将于5:20进行升级维护，预计维护时间一小时，给您带来的不便敬请谅解,若有疑问请联系在线客服",
+	"apk":"https://lt.alonelyboat.xyz/download/apk/2.1.1/LT-2.1.12.apk",
+	"apk2":"https://app.letian.app/download.html",
+	"ios":"itms-services://?action=download-manifest&url=https://lt.alonelyboat.xyz/download/ios/2.1.2/ios-LT-v2.1.24.plist",
+	"ios2":"https://lt.alonelyboat.xyz/service/index.html",
+	"ios3":"https://wechat.asus-store.cn",
+	"ios4":"itms-services://?action=download-manifest&url=https://lt.alonelyboat.xyz/download/ios/2.1.2/ios-LT-v2.1.24.plist",
+	"resourceUrl":"https://json.golanding.club/resource.json",
+	"serviceSDK":"59a08e18903fbfd8e6335a3efab25a07",
+	"mallApi":"https://api.letian3.com/mall/",
+	"webSorketUrl":"https://api.letian3.com/msg/",
+	"redPaperAttr":true,
+	"redPaperUrl":"",
+	"website":"www.le.bet"
+	
+}

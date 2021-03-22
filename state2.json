@@ -1,0 +1,45 @@
+{
+	"api":"https://api.javawb.top",
+	"agentDefault":"le70.com",
+	"service":"https://chat.meiqia.cn/widget/standalone.html?eid=98ea316f87ac88aec0d5a5aa494dc727",
+	"service1":"https://chat.meiqia.cn/widget/standalone.html?eid=98ea316f87ac88aec0d5a5aa494dc727",
+	"state":false, 
+	"state1":false, 
+	"tit":false,
+	"start":"9:00",
+	"end":"11:00",
+	"startTime":"9",
+	"endTime":"11",
+	"content":"尊敬的会员，为了您更好的游戏体验，系统将于5:20进行升级维护，预计维护时间一小时，给您带来的不便敬请谅解,若有疑问请联系在线客服",
+	"apk":"https://lt.alonelyboat.xyz/download/apk/2.1.1/LT-v2.1.21.apk",
+	"apk2":"https://app.fanggu88.com/download.html",
+	"ios":"itms-services://?action=download-manifest&url=https://lt.alonelyboat.xyz/download/ios/2.1.2/ios-LT-v2.1.23.plist",
+	"ios2":"https://lt.alonelyboat.xyz/service/index.html",
+	"ios3":"https://wechat.fanggu88.com",
+	"ios4":"itms-services://?action=download-manifest&url=https://lt.alonelyboat.xyz/download/ios/2.1.2/ios-LT-v2.1.23.plist",
+	"resourceUrl":"https://api-json-bucket.oss-cn-hongkong.aliyuncs.com/resource.json",
+	"serviceSDK":"59a08e18903fbfd8e6335a3efab25a07",
+	"mallApi":"https://api.qishi666.com/mall/",
+	"webSorketUrl":"http://124.156.102.88:8090/",
+	"timing":"15",
+	"redPaperRain":[{
+		"start":"2020-12-18 16:20:00",
+		"end":"2020-12-18 16:30:00"
+	},{
+		"start":"2020-12-18 16:40:00",
+		"end":"2020-12-18 16:50:00"
+	},{
+		"start":"2020-12-18 17:00:00",
+		"end":"2020-12-18 17:10:00"
+	},{
+		"start":"2020-12-18 17:20:00",
+		"end":"2020-12-18 17:30:00"
+	},{
+		"start":"2020-12-18 17:40:00",
+		"end":"2020-12-18 17:50:00"
+	}],
+	"redPaperAttr":true,
+	"redPaperUrl":"",
+	"website":"www.le.bet"
+	
+}
